@@ -1,0 +1,2 @@
+# Installer le role pour apache
+- src: https://github.com/aymeric13578/mini-project-ansible-role.git
